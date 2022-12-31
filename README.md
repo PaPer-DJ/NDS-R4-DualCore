@@ -10,3 +10,5 @@ Tan solo es necesario Descomprimir en Raíz de nuestra tarjeta MicroSD, introduc
 Evidentemente, una vez comprobado el correcto funcionamiento se ha de volver a sacar la Tarjeta MicroSD y conectar al PC para pasar los juegos y emuladores deseados.
 
 A disfrutar!
+
+![R4-DualCore-(PACK)](https://user-images.githubusercontent.com/46625495/210135887-a32a1096-0d05-49b8-9aa3-6ea16e2ca8d6.JPG)
