@@ -6,7 +6,7 @@ Compra: https://s.click.aliexpress.com/e/_DcHLucn
 
 Fuente Descargas: http://r4isdhc.com.cn/download.php
 
-Tan solo es necesario Descomprimir en Raíz de nuestra tarjeta MicroSD, introducirla en el Cartucho y a correr.
+Tan solo es necesario Descomprimir en Raíz de nuestra tarjeta MicroSD, introducirla en el Cartucho y a correr. 
 Evidentemente, una vez comprobado el correcto funcionamiento se ha de volver a sacar la Tarjeta MicroSD y conectar al PC para pasar los juegos y emuladores deseados.
 
 A disfrutar!
